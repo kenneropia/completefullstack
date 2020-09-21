@@ -1,0 +1,24 @@
+#container{
+  margin: auto;
+  background-color: darkturquoise;
+  width: 60%;
+}
+
+#header{
+  text-align: center;
+  text-transform: uppercase;
+  background-color: brown;
+  width: 60%;
+  margin: auto;
+}
+
+.body, footer{
+  background-color: black;
+  color: white;
+  padding:1em;
+  margin-bottom: 5px;
+}
+
+div span{
+  font-size: 50px;
+}
